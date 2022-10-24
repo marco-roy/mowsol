@@ -40,7 +40,7 @@ Alright, timers *are* clocks, but what matters is that they do not need to be sy
   - The measured time interval for the next pulse is 5.00000000333564095198 seconds, instead of the previous 5 seconds interval.
   - This would mean that light traveling in that direction took 0.00000000333564095198 seconds (or 3.33564095198 nanoseconds) to travel 1 meter.
     - As you can imagine, precision is of the essence (or a much larger scale experiment, to compensate for any missing precision).
-  - Using the simple velocity formula (velocity = distance / time), we can calculate that the one-way speed of light in that direction is 299,792,458 m/s (1 meter / 0.00000000333564095198 seconds), which is what we expect it to be if c is constant in every direction.
+  - Using the simple velocity formula (velocity = distance / time), we can calculate that the one-way speed of light in that direction is 299,792,458 m/s (1 meter / 0.00000000333564095198 seconds), which is what we expect it to be if it is constant in every direction.
   - Moving the laser back to its original position should register a symmetrical time interval of 4.99999999666435904802 seconds on the next pulse.
 - It's basically the equivalent of measuring the speed of a baseball (or some other moving object):
   - The initial interval (5 seconds) gives us the first "picture"/reading (at point A).
