@@ -46,7 +46,7 @@ Alright, timers *are* clocks, but what matters is that they do not need to be sy
   - The initial interval (5 seconds) gives us the first "picture"/reading (at point A).
   - Then, moving the laser give us the distance between two points (A & B).
   - Then, the difference between the initial interval (at point A) and the next interval (at point B) gives us the "second picture", which reveals the time it took for the laser pulse to travel over that distance.
-  - Note that this measurement can only be taken once per change of condition! Afterwards, the interval will return to its expected value.
+  - Note that this measurement can only be taken once per change of condition! Afterwards, the interval will return to its expected value. 
 
 <picture>
   <img alt="CC0 -- Creative Commons Zero license, No Rights Reserved" src="https://licensebuttons.net/p/zero/1.0/88x31.png" style="visibility: visible">
@@ -54,3 +54,7 @@ Alright, timers *are* clocks, but what matters is that they do not need to be sy
 <picture>
   <img alt="Public Domain Mark" src="https://licensebuttons.net/p/mark/1.0/88x31.png" style="visibility: visible">
 </picture>
+
+## Acknowledgements:
+
+Thanks to [Dr. Derek Muller](https://en.wikipedia.org/wiki/Derek_Muller) (creator of [Veritasium](https://www.veritasium.com/)), for [sharing this issue with the world](https://www.youtube.com/watch?v=pTn6Ewhb27k) (and for [all of his amazing videos](https://www.youtube.com/c/veritasium)). Without him, I would have never even known about this issue, so I couldn't have solved it.
