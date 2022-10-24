@@ -17,7 +17,10 @@ Alright, timers *are* clocks, but what matters is that they do not need to be sy
 - Configure a timer to fire a laser pulse after a specific repeating time interval (let's say every 5 seconds)
 - Let the laser fire a few times; the photodetector will register these readings at the exact same interval (5 seconds in between each reading).
   - We don't yet know exactly how long the laser pulse is taking to reach the photodetector, but we know that it will remain constant under these conditions.
-- Then, in between two pulses, rotate the tube into a different direction.
+- Then, in between two pulses, rotate the tube (from the center) into a different direction.
+  - The distance between the laser and the photodetector did not change.
+  - Both objects moved (were rotated) the same distance at the same speed (but in opposite direction).
+    - From their frame of reference (i.e. within the tube), neither of them is moving at all. Hence, time dilation should not apply.
   - If light is faster in that direction, the next photodetector reading will happen slightly sooner than the expected interval (because faster light will reach the photodetector sooner).
   - If light is slower in that direction, the next photodetector reading will happen slightly later than the expected interval (because slower light will reach the photodetector later).
   - The difference between the expected interval and the measured interval is how much shorter or longer it took the laser pulse to reach the photodetector in that direction.
