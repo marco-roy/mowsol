@@ -1,10 +1,10 @@
 # Measuring the One-Way Speed Of Light
 
 <picture>
-  <img alt="CC0 -- Creative Commons Zero license, No Rights Reserved" src="https://licensebuttons.net/p/zero/1.0/88x31.png">
+  <img alt="CC0 -- Creative Commons Zero license, No Rights Reserved" src="https://licensebuttons.net/p/zero/1.0/88x31.png" style="visibility: visible">
 </picture>
 <picture>
-  <img alt="Public Domain Mark" src="https://licensebuttons.net/p/mark/1.0/88x31.png">
+  <img alt="Public Domain Mark" src="https://licensebuttons.net/p/mark/1.0/88x31.png" style="visibility: visible">
 </picture>
 <br/><br/>
 
@@ -48,8 +48,8 @@ Alright, timers *are* clocks, but what matters is that they do not need to be sy
   - Note that this measurement can only be taken once per change of condition! Afterwards, the interval will return to its expected value.
 
 <picture>
-  <img alt="CC0 -- Creative Commons Zero license, No Rights Reserved" src="https://licensebuttons.net/p/zero/1.0/88x31.png">
+  <img alt="CC0 -- Creative Commons Zero license, No Rights Reserved" src="https://licensebuttons.net/p/zero/1.0/88x31.png" style="visibility: visible">
 </picture>
 <picture>
-  <img alt="Public Domain Mark" src="https://licensebuttons.net/p/mark/1.0/88x31.png">
+  <img alt="Public Domain Mark" src="https://licensebuttons.net/p/mark/1.0/88x31.png" style="visibility: visible">
 </picture>
