@@ -1,7 +1,12 @@
 # Measuring the One-Way Speed Of Light
 
-![CC0 -- Creative Commons Zero license, No Rights Reserved](https://licensebuttons.net/p/zero/1.0/88x31.png)
-![Public Domain Mark](https://licensebuttons.net/p/mark/1.0/88x31.png)
+<picture>
+  <img alt="CC0 -- Creative Commons Zero license, No Rights Reserved" src="https://licensebuttons.net/p/zero/1.0/88x31.png">
+</picture>
+<picture>
+  <img alt="Public Domain Mark" src="https://licensebuttons.net/p/mark/1.0/88x31.png">
+</picture>
+<br/><br/>
 
 ***No clocks needed!*** Just two *independent* timers.
 
@@ -42,5 +47,9 @@ Alright, timers *are* clocks, but what matters is that they do not need to be sy
   - Then, the difference between the initial interval (at point A) and the next interval (at point B) gives us the "second picture", which reveals the time it took for the laser pulse to travel over that distance.
   - Note that this measurement can only be taken once per change of condition! Afterwards, the interval will return to its expected value.
 
-![CC0 -- Creative Commons Zero license, No Rights Reserved](https://licensebuttons.net/p/zero/1.0/88x31.png)
-![Public Domain Mark](https://licensebuttons.net/p/mark/1.0/88x31.png)
+<picture>
+  <img alt="CC0 -- Creative Commons Zero license, No Rights Reserved" src="https://licensebuttons.net/p/zero/1.0/88x31.png">
+</picture>
+<picture>
+  <img alt="Public Domain Mark" src="https://licensebuttons.net/p/mark/1.0/88x31.png">
+</picture>
