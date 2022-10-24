@@ -33,12 +33,13 @@ Alright, timers *are* clocks, but what matters is that they do not need to be sy
   - Another option would be to move the photodetector instead.
   - If the movement cannot be extremely precise, then the measure of the distance between the two points should be.
 - This will give us two measurements with which to calculate the one-way speed of light (in that direction):
-  - A distance measurement, which is how much we moved the laser/photodetector.
-  - And a time measurement, which is the difference between the expected interval and the interval measured after moving the laser.
+  - A distance measurement, which is how much we moved the laser/photodetector (from point A to point B).
+  - And a time measurement, which is the difference between the expected interval and the interval measured after moving the laser (or the photodetector).
 - For example:
   - In between two pulses, we move the laser back by 1 meter (it is now exactly 2 meters away from the photodetector).
   - The measured time interval for the next pulse is 5.00000000333564095198 seconds, instead of the previous 5 seconds interval.
-  - This would mean that light traveling in that direction took 0.00000000333564095198 seconds (or 3.33564095198 nanoseconds) to travel 1 meter. As you can imagine, precision is of the essence (or a much larger scale experiment, to compensate for any missing precision).
+  - This would mean that light traveling in that direction took 0.00000000333564095198 seconds (or 3.33564095198 nanoseconds) to travel 1 meter.
+    - As you can imagine, precision is of the essence (or a much larger scale experiment, to compensate for any missing precision).
   - Using the simple velocity formula (velocity = distance / time), we can calculate that the one-way speed of light in that direction is 299,792,458 m/s (1 meter / 0.00000000333564095198 seconds), which is what we expect it to be if c is constant in every direction.
   - Moving the laser back to its original position should register a symmetrical time interval of 4.99999999666435904802 seconds on the next pulse.
 - It's basically the equivalent of measuring the speed of a baseball (or some other moving object):
